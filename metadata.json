@@ -1,0 +1,10 @@
+{
+  "name": "Refco India Corporation",
+  "description": "Enterprise Mobile CRM, Contact Directory, Material Calculators, Field Tracking & Vouchers App for Refco India Corporation",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
