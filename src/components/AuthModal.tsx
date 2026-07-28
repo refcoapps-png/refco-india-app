@@ -217,7 +217,7 @@ export const AuthModal: React.FC<Props> = ({ isOpen, onLoginSuccess }) => {
 
               <div className="mt-4 pt-3 border-t border-slate-100 text-center">
                 <p className="text-[11px] text-slate-400 font-medium">
-                  Default Master Admin: <span className="font-semibold text-slate-600">info@refcoindia.com</span> | <span className="font-semibold text-slate-600">Ajay@1234</span>
+                  Default Master Admin: <span className="font-semibold text-slate-600"></span> | <span className="font-semibold text-slate-600"></span>
                 </p>
               </div>
             </form>
